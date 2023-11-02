@@ -17,11 +17,12 @@ I was the Creative Director of Turner Fenton's SOAR for both the 2018 and 2019 c
 
 4) What was your favourite memory of it?
 
-I particularily enjoyed painting the banner. The banner was so long that it was virtually impossible to find a place to lay it out so I could paint. I ended up having to completely rearrange a part of my house and lay down newspaper along all of the floor to be able to paint.
+<p>I particularily enjoyed painting the banner. The banner was so long that it was virtually impossible to find a place to lay it out so I could paint. 
+I ended up having to completely rearrange a part of my house and lay down newspaper along all of the floor to be able to paint.</p>
 
 5) What didn't you enjoy about it?
 
-I found that the atual day of the conference was the worst part of the experience (even though I quite enjoyed it). As a creative director, I did not have any actual work during the conference so instead we were randomly assigned various jobs along with the other groups. This caued some issues because unlike the other teams, the creative directors had received absoluely no training for the job they had been asigned, making for a lot of confusion and some miscommunication between the groups.
+<p>I found that the atual day of the conference was the worst part of the experience (even though I quite enjoyed it). As a creative director, I did not have any actual work during the conference so instead we were randomly assigned various jobs along with the other groups. This caued some issues because unlike the other teams, the creative directors had received absoluely no training for the job they had been asigned, making for a lot of confusion and some miscommunication between the groups.</p>
 
 6) Give your experience a letter "grade"
 
