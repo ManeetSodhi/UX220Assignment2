@@ -10,14 +10,16 @@
         rel="stylesheet">
     <style>
         :root {
-            --main-background: #DEE6E5;
-            --main-foreground: #343A40;
+            --main-background: #E1E9E4;
+            --main-foreground: #1B1A1A;
             --main-accent: #DF8D90;
             --pane-padding: 5px 42px;
         }
 
         header {
             font-family: 'Prompt', sans-serif;
+
+            color: var(--main-background);
         }
 
         h1 {
@@ -42,7 +44,7 @@
         main {
             background-color: var(--main-foreground);
             border-radius: 30px;
-            padding: 20px;
+            padding: 30px;
         }
 
         p {
@@ -51,7 +53,11 @@
 
         nav {
             border-radius: 30px;
-            background-color: red;
+            background-color: var(--main-foreground);
+        }
+
+        a {
+            color: var(--main-accent);
         }
 
         hr {
@@ -59,6 +65,9 @@
             width: 800px;
             background-color: var(--main-background);
             margin: 20px;
+        }
+        x-markdown2html {
+        
         }
     </style>
 </head>
@@ -87,14 +96,19 @@
     </header>
     <main>
         <x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html>
+        </br>
         <x-markdown2html src="items/experience_2.md" id="section_2"></x-markdown2html>
+        </br>
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
+        </br>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
+        </br>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
         </br>
         <hr>
         </br>
         <x-markdown2html src="contact.md" id="contact"></x-markdown2html>
+        </br>
         <x-markdown2html src="about.md" id="about"></x-markdown2html>
     </main>
     <footer>
