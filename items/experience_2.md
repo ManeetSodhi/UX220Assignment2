@@ -1,6 +1,9 @@
-### Title
+### Visiting the Met
 
 1) What was it that you did?
+
+- went to the metropolitan museum of art
+
 
 2) When did you do it?
 

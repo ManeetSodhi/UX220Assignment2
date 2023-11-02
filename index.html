@@ -18,7 +18,6 @@
 
         header {
             font-family: 'Prompt', sans-serif;
-
             color: var(--main-background);
         }
 
@@ -27,11 +26,15 @@
             font-weight: 700;
             color: var(--main-foreground);
             text-align: center;
-            padding: 30;
+            padding: 10px;
         }
 
         h3 {
             font-family: 'Prompt', sans-serif;
+            color: var(--main-background);
+            background-color: var(--main-accent);
+            padding: 15px;
+            border-radius: 30px;
         }
 
         body {
@@ -41,7 +44,7 @@
             padding: 30px;
         }
 
-        main {
+        .division1 {
             background-color: var(--main-foreground);
             border-radius: 30px;
             padding: 30px;
@@ -54,21 +57,19 @@
         nav {
             border-radius: 30px;
             background-color: var(--main-foreground);
+            
         }
 
         a {
             color: var(--main-accent);
+            padding: 10px;
         }
 
-        hr {
-            height: 4px;
-            width: 800px;
-            background-color: var(--main-background);
-            margin: 20px;
+        a:hover {
+        color: var(--main-background)
         }
-        x-markdown2html {
-        
-        }
+
+       
     </style>
 </head>
 
@@ -95,6 +96,7 @@
         <h1>Assignment 2</h1>
     </header>
     <main>
+        <div class="division1">
         <x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html>
         </br>
         <x-markdown2html src="items/experience_2.md" id="section_2"></x-markdown2html>
@@ -104,16 +106,17 @@
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
         </br>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
-        </br>
-        <hr>
+        </div>
+         </br>
+         <div class="division1">
+        <x-markdown2html src="about.md" id="about"></x-markdown2html>
         </br>
         <x-markdown2html src="contact.md" id="contact"></x-markdown2html>
-        </br>
-        <x-markdown2html src="about.md" id="about"></x-markdown2html>
+       </div>
     </main>
     <footer>
         </br>
-        <p>Maneet Sodhi</p>
+        <p> &copy Maneet Sodhi</p>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
