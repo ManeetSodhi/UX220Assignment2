@@ -9,7 +9,7 @@
 
 2) When did you do it?
 
-I was the Creative Director of Turner Fenton's SOAR for both the 2018 and 2019 conferences
+- I was the Creative Director of Turner Fenton's SOAR for both the 2018 and 2019 conferences
 
 3) What was good about it?
 
@@ -27,4 +27,4 @@ I ended up having to completely rearrange a part of my house and lay down newspa
 
 6) Give your experience a letter "grade"
 
-B
+**B**
