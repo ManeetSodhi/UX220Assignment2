@@ -1,3 +1,3 @@
 ### Contact 
 
-Contact Information here
+This is where I would put my contact information.
